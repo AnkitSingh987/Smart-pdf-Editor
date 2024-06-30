@@ -26,11 +26,11 @@ This app is a modified version of [https://github.com/AnkitSingh987/Smart-Pdf-Ed
 
 ## License
 
-This app is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for details.
+This app is licensed under the GNU General Public License v3.0. See the[./LICENSE](https://github.com/AnkitSingh987/Smart-Pdf-Editor/blob/my-new-branch/LICENSE.md)) file for details.
 
 ## Source Code
 
-The source code for this app is available at: [Your Repository Link or Website]
+The source code for this app is available at: [[Your Repository Link or Website](https://github.com/AnkitSingh987/Smart-Pdf-Editor/blob/my-new-branch/LICENSE.md)]
 
 ## Modifications
 
@@ -39,11 +39,11 @@ This app contains modifications from the original project. For a list of changes
 
 ### 3. Source Code Availability
 
-Aapko apne modified app ka source code publicly available karna hoga. Aap ise apne website ya GitHub repository pe host kar sakte hain. Yeh step GPL-3.0 ke compliance ke liye zaroori hai.
+https://github.com/AnkitSingh987/Smart-Pdf-Editor
 
 ### 4. License Notice in Code Files
 
-Apne code ke key files me comments ke through license notice add karna bhi zaroori hai. Yeh ensure karta hai ki koi bhi jo code ko dekhe, usse license ke baare me pata chal jaye.
+(https://github.com/AnkitSingh987/Smart-Pdf-Editor/blob/my-new-branch/LICENSE.md)
 
 Example code comment:
 python
