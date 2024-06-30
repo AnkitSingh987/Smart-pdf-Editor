@@ -30,7 +30,7 @@ This app is licensed under the GNU General Public License v3.0. See the[./LICENS
 
 ## Source Code
 
-The source code for this app is available at: [[Your Repository Link or Website](https://github.com/AnkitSingh987/Smart-Pdf-Editor/blob/my-new-branch/LICENSE.md)]
+The source code for this app is available at: [[Your Repository Link or Website](https://github.com/AnkitSingh987/Smart-Pdf-Editor/tree/my-new-branch)]
 
 ## Modifications
 
