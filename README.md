@@ -39,7 +39,7 @@ This app contains modifications from the original project. For a list of changes
 
 ### 3. Source Code Availability
 
-https://github.com/AnkitSingh987/Smart-Pdf-Editor
+https://github.com/AnkitSingh987/Smart-Pdf-Editor/tree/my-new-branch
 
 ### 4. License Notice in Code Files
 
