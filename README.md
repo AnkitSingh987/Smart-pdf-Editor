@@ -53,7 +53,7 @@ python
 # This project is licensed under the GNU General Public License v3.0.
 
 ## License
-This project is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3.0 License - see the [LICENSE]((https://github.com/AnkitSingh987/Smart-Pdf-Editor/blob/my-new-branch/LICENSE.md)) file for details.
 
 
 ### 5. Distribute the License
