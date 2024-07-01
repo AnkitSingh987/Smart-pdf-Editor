@@ -22,7 +22,7 @@ minner error
 
 # My Paid App
 
-This app is a modified version of [https://github.com/AnkitSingh987/Smart-Pdf-Editor) originally created by ANkitSingh987.
+This app is a modified version of (https://github.com/AnkitSingh987/Smart-Pdf-Editor/tree/my-new-branch) originally created by ANkitSingh987.
 
 ## License
 
